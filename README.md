@@ -24,9 +24,9 @@ Nomor tema dihitung dari NIM ketua: 48 mod 20 = 8, ditambah 1 = 9.
 | Minggu | Materi | Folder | Status |
 | --- | --- | --- | --- |
 | 1 | Pengenalan Kotlin Multiplatform, Hello World | [`pekan-1`](pekan-1) | Selesai |
-| 2 | Advanced Kotlin, Coroutines, Flow (News Feed Simulator) | [`pekan-2`](pekan-2) | Selesai |
-| 3 | Compose Multiplatform Basics (My Profile App) | [`pekan-3`](pekan-3) | Selesai |
-| 4 | State Management dan MVVM (Profile App) | [`pekan-4`](pekan-4) | Selesai |
+| 2 | Advanced Kotlin, Coroutines, Flow (News Feed Simulator) | `pekan-2` | Menyusul (resubmit) |
+| 3 | Compose Multiplatform Basics (My Profile App) | `pekan-3` | Menyusul (resubmit) |
+| 4 | State Management dan MVVM (Profile App) | `pekan-4` | Menyusul (resubmit) |
 | 5 dan seterusnya | | | Menyusul |
 
 README ini diperbarui setiap minggu. Detail, screenshot, dan cara menjalankan ada di README tiap folder.
@@ -40,10 +40,8 @@ Kotlin Multiplatform, Compose Multiplatform, target Android dan iOS.
 ```
 .
 ├── pekan-1/
-├── pekan-2/
-├── pekan-3/
-├── pekan-4/
 └── README.md
+(folder pekan-2 sampai pekan-4 ditambahkan saat resubmit)
 ```
 
 Setiap folder pekan adalah proyek Gradle terpisah, buka satu folder per proyek di Android Studio.
